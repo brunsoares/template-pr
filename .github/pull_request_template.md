@@ -2,10 +2,10 @@
 
 ## Selecione o template adequado
 
-- [Feature](?expand=1&template=feature.md)
-- [Hotfix](?expand=1&template=hotfix.md)
-- [Automação](?expand=1&template=automation.md)
-- [Release](?expand=1&template=release.md)
+- [Automação](?expand=1&template=automacao.md)
+- [Inovação](?expand=1&template=inovacao.md)
+- [Manutenção](?expand=1&template=manutencao.md)
+- [Liberação Quinzenal](?expand=1&template=quinzenal.md)
 
 ## Informações adicionais
 
